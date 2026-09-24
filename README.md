@@ -66,11 +66,5 @@ i love solving problems and find application problems :)
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ActiveGamers&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ActiveGamers">ActiveGamers</a></i></p>
